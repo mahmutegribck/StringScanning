@@ -1,0 +1,3 @@
+﻿  StringScanning.cpp
+C:\Users\mahmu\Desktop\StringScanning\StringScanning\StringScanning.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StringScanning.vcxproj -> C:\Users\mahmu\Desktop\StringScanning\x64\Debug\StringScanning.exe
